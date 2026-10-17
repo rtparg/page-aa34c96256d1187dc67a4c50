@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ec9b808703.neciffq.cn/sitemap.xml
